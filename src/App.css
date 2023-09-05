@@ -277,7 +277,7 @@ h2 {
   min-height: 250px;
 }
 .skills--section--card:hover {
-  border-bottom: 4px solid var(--primary);
+  border-bottom: 4px solid rgb(60, 106, 167);
 }
 .skills--section--card:hover .skills--section--description {
   color: var(--darkblue);
@@ -385,7 +385,7 @@ h2 {
 .portfolio--section--title {
   color: var(--heading-color);
 }
-.portfolio--link {
+.portfolio--link a {
   text-decoration: none;
   display: flex;
   gap: 16px;
