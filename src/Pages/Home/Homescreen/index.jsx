@@ -12,9 +12,7 @@ function Home() {
 			<MySkills/>
 			<MyPortfolio/>
 			<AboutMe/>
-
 			<Testimonial/>
-			
 		</>
 	);
 }
