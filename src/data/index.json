@@ -62,7 +62,7 @@
     },
     {
       "id": "2",
-      "count": "5",
+      "count": "4",
       "src": "./img/avatar-image-1.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "author_name": "Kristin Watson",
@@ -70,7 +70,7 @@
     },
     {
       "id": "3",
-      "count": "5",
+      "count": "2",
       "src": "./img/avatar-image-2.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "author_name": "Kathryn Murphy",
