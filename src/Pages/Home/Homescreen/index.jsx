@@ -5,6 +5,7 @@ import AboutMe from "../AboutMe";
 import MyPortfolio from "../MyPortfolio";
 import Testimonial from "../Testimonials";
 import ContactMe from "../ContactMe";
+import Footer from "../Footer";
 
 function Home() {
 	return (
@@ -15,6 +16,7 @@ function Home() {
 			<AboutMe/>
 			<Testimonial/>
 			<ContactMe/>
+			<Footer/>
 		</>
 	);
 }
