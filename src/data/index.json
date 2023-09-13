@@ -25,6 +25,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
     }
   ],
+
   "portfolio": [
     {
       "id": "1",
@@ -50,6 +51,7 @@
       "link": "View In Github",
       "connect" :"https://github.com/ByYigiter/my-portfolio"
     }
+    
   ],
   "testimonial": [
     {
