@@ -68,6 +68,12 @@ export default function MyPortfolio() {
           </div>
         ))}
       </div>
+
+      <div className="pagination">
+        {/* <button onClick={handlePrevPage} disabled={currentPage === 1}>Previous</button> */}
+        <span>Page {1} of {10}</span>
+        {/* <button onClick={handleNextPage} disabled={currentPage === totalPages}>Next</button> */}
+      </div>
     </section>
   );
 }
