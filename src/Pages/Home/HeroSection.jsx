@@ -25,7 +25,7 @@ function HeroSection() {
 				<button className="btn btn-primary">Get In Touch</button>
 			</div>
 			<div className="hero--section--img">
-				<img src="./img/resim1.png" alt="Hero Section" />
+				<img src="./img/herosection.jpg" alt="Hero Section" />
 			</div>
 		</section>
 	);
