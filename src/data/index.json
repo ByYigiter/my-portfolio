@@ -95,15 +95,7 @@
       "link": "View In Github",
       "connect" :"https://github.com/ByYigiter/my-portfolio"
     }
-    ,
-    {
-      "id": "9",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Project 9",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github",
-      "connect" :"https://github.com/ByYigiter/my-portfolio"
-    }
+
     
   ],
   "testimonial": [
