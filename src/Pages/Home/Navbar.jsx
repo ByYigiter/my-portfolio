@@ -2,8 +2,6 @@ import { useState, useEffect } from "react";
 import { Link } from "react-scroll";
 
 function Navbar() {
-
-
 	const [darkMode, setDarkMode] = useState(false); // Yeni satır
 
 	const toggleDarkMode = () => {
@@ -41,9 +39,13 @@ function Navbar() {
 	}, []);
 
 	return (
-		<nav className={`navbar ${navActive ? "active" : ""} ${darkMode ? "dark" : ""}`}>
+		<nav
+			className={`navbar ${navActive ? "active" : ""} ${
+				darkMode ? "dark" : ""
+			}`}
+		>
 			<div className="image-logo">
-				<img src="./img/byyigiter2.png" alt="ByYigiter" />
+				<img src="./img/logo.png" alt="ByYigiter" />
 			</div>
 			<a
 				className={`nav__hamburger ${navActive ? "active" : ""}`}
