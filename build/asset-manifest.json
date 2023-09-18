@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ByYigiter/my-portfolio/static/css/main.b7ce44d2.css",
+    "main.js": "/ByYigiter/my-portfolio/static/js/main.d06b62d7.js",
+    "index.html": "/ByYigiter/my-portfolio/index.html",
+    "main.b7ce44d2.css.map": "/ByYigiter/my-portfolio/static/css/main.b7ce44d2.css.map",
+    "main.d06b62d7.js.map": "/ByYigiter/my-portfolio/static/js/main.d06b62d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7ce44d2.css",
+    "static/js/main.d06b62d7.js"
+  ]
+}
