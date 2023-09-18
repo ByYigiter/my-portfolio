@@ -1,28 +1,28 @@
 {
   "skills": [
     {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Full-Stack",
+      "description": "Professionally skilled in both front-end and back-end development, I excel in creating seamless, user-friendly web applications with a strong focus on performance and functionality."
+    },
+    {
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Front-end development involves creating the user interface of web applications. React, a JavaScript-based library, enables interactive and dynamic user experiences. CSS determines the styles and layouts."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
-    },
-    {
-      "id": "3",
-      "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Proficient in Java-based backend development, I leverage Hibernate and Spring Boot to optimize database operations, enhance security, and maximize performance."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "PL/SQL Developer",
+      "description": "Advanced proficiency in Oracle PL/SQL. Expertise includes complex query optimization, stored procedures, and database performance tuning for seamless backend operations in enterprise-level applications."
     }
   ],
 
@@ -53,49 +53,57 @@
     },
     {
       "id": "4",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Project 4",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/shopping-cart.jpg",
+      "title": "Shopping-cart web site",
+      "description": "Effortless shopping experience: React site offers secure payments, personalized recommendations, and smooth browsing.",
       "link": "View In Github",
-      "connect" :"https://github.com/ByYigiter/my-portfolio"
+      "connect" :"https://github.com/ByYigiter/react-shopping-cart"
     }
     ,
     {
       "id": "5",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Project 5",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/product-filter-search.jpg",
+      "title": "Product-Filter-Search web site",
+      "description": "A product filtering and search website developed with JavaScript. User-friendly interface for a fast and efficient product browsing experience.",
       "link": "View In Github",
-      "connect" :"https://github.com/ByYigiter/my-portfolio"
+      "connect" :"https://github.com/ByYigiter/Product-Filter-Search"
     }
     ,
     {
       "id": "6",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Project 6",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/project-6.jpg",
+      "title": "Library Management Backend Project",
+      "description": "Efficient Spring Boot backend for seamless library management. Streamline operations, manage resources, and enhance user experience.",
       "link": "View In Github",
-      "connect" :"https://github.com/ByYigiter/my-portfolio"
+      "connect" :"https://github.com/ByYigiter/LibraryManagement_v2"
     }
     ,
     {
       "id": "7",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Project 7",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/starlink.jpg",
+      "title": "Starlink clone web site",
+      "description": "Starlink Clone website built with CSS. Elevate your internet speed with unique design and user-friendly interface.",
       "link": "View In Github",
-      "connect" :"https://github.com/ByYigiter/my-portfolio"
+      "connect" :"https://github.com/ByYigiter/starlink"
     }
     ,
     {
       "id": "8",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Project 8",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/project-8.jpg",
+      "title": "Company Backend Project",
+      "description": "Efficient Spring Boot backend for seamless company operations. Streamline processes, boost productivity, and enhance functionality.",
       "link": "View In Github",
-      "connect" :"https://github.com/ByYigiter/my-portfolio"
+      "connect" :"https://github.com/ByYigiter/Company-Project"
     }
-        
+    ,
+    {
+      "id": "9",
+      "src": "./img/project-9.jpg",
+      "title": "To do Backend Project",
+      "description": "Java-powered to-do project streamlines tasks, enhancing productivity and organization for optimized workflow efficiency.",
+      "link": "View In Github",
+      "connect" :"https://github.com/ByYigiter/To-do-Backend-Project"
+    }
   ],
   "testimonial": [
     {
