@@ -37,19 +37,19 @@
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/project-2.jpg",
+      "title": "Movie Search",
+      "description": "Explore the latest releases and timeless classics! A vast movie collection awaits for an amazing film experience. ",
       "link": "View In Github",
-      "connect" :"https://github.com/ByYigiter/my-portfolio"
+      "connect" :"https://github.com/ByYigiter/Movies-Search"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/todoApp-1.jpg",
+      "title": "Todo App",
+      "description": "Boost productivity with a user-friendly to-do app. Organize your tasks effortlessly. Always ready, accessible anywhere. Get things done efficiently!",
       "link": "View In Github",
-      "connect" :"https://github.com/ByYigiter/my-portfolio"
+      "connect" :"https://github.com/ByYigiter/todo-app"
     },
     {
       "id": "4",
