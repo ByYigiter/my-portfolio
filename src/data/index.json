@@ -29,11 +29,11 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/project-1.png",
+      "title": "Movies App",
+      "description": "Explore a vast collection of the latest releases, timeless classics, and exclusive content, all in one convenient app experience.",
       "link": "View In Github",
-      "connect" :"https://github.com/ByYigiter/my-portfolio"
+      "connect" :"https://github.com/ByYigiter/my-movies"
     },
     {
       "id": "2",

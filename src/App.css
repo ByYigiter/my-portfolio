@@ -376,6 +376,7 @@ h2 {
 }
 .portfolio--section--img > img {
   width: 100%;
+  border-radius: 10px;
 }
 .portfolio--section--card {
   display: flex;
